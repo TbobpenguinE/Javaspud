@@ -35,3 +35,13 @@ button {
 button:hover {
     background-color: #e5c9a8;
 }
+
+.sizeup {
+    font-size: 50px;
+}
+
+.potato-scheme {
+    background-color: #f4e1c1;
+    color: #4b2e0c;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
